@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo_App/static/css/main.05090210.css",
+    "main.js": "/Todo_App/static/js/main.ae1ef313.js",
+    "static/media/notask.png": "/Todo_App/static/media/notask.820bd477d4d8b93c8d4c.png",
+    "index.html": "/Todo_App/index.html",
+    "main.05090210.css.map": "/Todo_App/static/css/main.05090210.css.map",
+    "main.ae1ef313.js.map": "/Todo_App/static/js/main.ae1ef313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05090210.css",
+    "static/js/main.ae1ef313.js"
+  ]
+}
