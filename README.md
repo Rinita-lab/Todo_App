@@ -41,4 +41,5 @@ The Application Runs on localhost:3000
 - Removes tasks from TODO App.
 - Updates tasks in TODO App.
 - Toggles between whether a task is completed or not without removing the task.
+- Stores user data in the local storage to implement persistent storage.
 
